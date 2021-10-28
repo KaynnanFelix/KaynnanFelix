@@ -1,8 +1,8 @@
 # Hi, I'm Kaynnan Felix!
 ## About Me
-- Bachelor's Degree Student in Information Systems at the [University of São Paulo](https://www5.usp.br/)
-- Computer Technician at the [Federal Institute of São Paulo](https://spo.ifsp.edu.br/)
-- Intern in Climatempo
+- Bachelor's Degree Student in Information Systems at the [University of São Paulo](https://www5.usp.br/);
+- Computer Technician at the [Federal Institute of São Paulo](https://spo.ifsp.edu.br/);
+- Intern in [Climatempo](https://www.climatempo.com.br/).
 ## Areas of Interest
 ## Skills
 ## Contacts
